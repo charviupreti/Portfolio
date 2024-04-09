@@ -8,7 +8,7 @@ function ExperienceAndEducation() {
           <tr>
             <td>
               <h5>
-                MERN Full Stack Internship Program (August 2023 - Present)
+                MERN Full Stack Internship Program (August 2023 - November 2023)
               </h5>
               Ethnus Codemithra
             </td>
@@ -18,7 +18,7 @@ function ExperienceAndEducation() {
             <td>
               <h5>
                 Machine Learning & Deep Learning Externship Program (August 2023
-                - Present)
+                - October 2023)
               </h5>
               SmartInternz
             </td>

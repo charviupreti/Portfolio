@@ -63,7 +63,7 @@ function ExperienceAndEducation() {
               <h5>Bachelor of Technology (2021-Present)</h5>
               Vellore Institute of Technology, Chennai
               <br />
-              Current CGPA (for 5 semesters): 9.35
+              Current CGPA (for 6 semesters): 9.33
             </td>
           </tr>
           <hr />
